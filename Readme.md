@@ -5,9 +5,10 @@ client - server
 Install:
 
 1. install node.js on your machine 
-2. install nam
+2. install npm
 3. go to the directory with these files
-4. write on terminal “nam install express” and “nam install socket.io”
+4. write on terminal “npm install express” and “npm install socket.io”
+5. you will see a file "node-modules" has been created
 
 Run: 
 
