@@ -1,5 +1,7 @@
 This is a web—chat where anyone can join using nickname. 
 
+client - server
+
 Install:
 
 1. install node.js on your machine 
